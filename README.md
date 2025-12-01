@@ -8,7 +8,7 @@ Machine Learning Engineer and Mathematics student from Ecuador, passionate about
 
 ## 🔭 I'm currently working on...
 - **Environmental ML Research**: Microplastics detection using FTIR spectra from isolated microplastic data.
-- **Biology + AI**: Isotropic Reconstruction Image with Deep Learning,
+- **Biology + AI**: Isotropic Reconstruction Image with Deep Learning.
 
 ## 🌱 I'm currently learning...
 - Advanced probability and statistics for ML
@@ -18,7 +18,7 @@ Machine Learning Engineer and Mathematics student from Ecuador, passionate about
 ## 📊 Featured Projects
 
 ### 🌊 [Microplastics ML Research](https://github.com/JeffersonConza/microplastics-ml-research)
-ML research for detection, classification, and environmental modeling of microplastics using spectroscopy analysis, and geospatial modeling.
+ML research for detection, classification, and environmental modeling of microplastics using spectroscopy analysis.
 
 ### 🔋 [Energy Forecast Hub](https://github.com/JeffersonConza/energy-forecast-hub)
 Forecasting daily household energy use with machine learning models (Linear Regression, Random Forest, XGBoost) using real-world data to optimize consumption patterns.
@@ -43,7 +43,7 @@ JupyterLab · Git · GitHub · Linux · Bash · APIs
 ## 🔦 My Love for PyTorch
 
 ````markdown
-🔦 PyTorch turns mathematical ideas into tensors, tensors into models,  
+PyTorch turns mathematical ideas into tensors, tensors into models,  
 and models into intelligent systems that learn from the world.
 
 From `autograd` magic to GPU-powered training loops,  
