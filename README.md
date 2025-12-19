@@ -109,10 +109,7 @@ print("PyTorch says:", model(x))
 
 </p>
 
-
 <!-- Top Languages -->
-<h3 align="center">📚 Top Languages</h3>
-
 <p align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonConza&show_icons=true&locale=en&layout=compact&theme=default" 
