@@ -4,7 +4,21 @@
 **JeffersonConza/JeffersonConza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<p align="center">
 Machine Learning Engineer and Mathematics student from Ecuador, passionate about building data-driven solutions while deepening my theoretical understanding.
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=JeffersonConza&label=Profile%20Views&color=0e75b6&style=flat-square" 
+    alt="Profile views"
+  />
+</p>
+
+
+
+
+
 
 ## 🔭 I'm currently working on...
 - **Environmental ML Research**: Microplastics detection using FTIR spectra from isolated microplastic data.
@@ -72,8 +86,30 @@ print("PyTorch says:", model(x))
 ````
 
 
-## 📫 How to reach me:
-- **LinkedIn:** [jefferson-conza-46779b59](https://www.linkedin.com/in/jefferson-conza-46779b59/)
-- **Twitter/X:** [@Jefferson_Conza](https://twitter.com/Jefferson_Conza)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jefferson-conza-46779b59/" target="blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="jefferson-conza-46779b59" 
+       height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/Jefferson_Conza" target="blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+       alt="@Jefferson_Conza" 
+       height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/jefferson_conza/" target="blank">
+  <img align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+       alt="jefferson_conza" 
+       height="30" width="40" />
+</a>
+
+</p>
 
 ---
