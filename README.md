@@ -1,9 +1,6 @@
-# Hi there, I'm Jefferson Conza 👋
+<h1 align="center">Hi there, I'm Jefferson Conza 👋</h1>
 
-<!--
-**JeffersonConza/JeffersonConza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+<!-- Introduction -->
 <p align="center">
 Machine Learning Engineer and Mathematics student from Ecuador, passionate about building data-driven solutions while deepening my theoretical understanding.
 </p>
@@ -16,10 +13,7 @@ Machine Learning Engineer and Mathematics student from Ecuador, passionate about
 </p>
 
 
-
-
-
-
+<!-- Current activities -->
 ## 🔭 I'm currently working on...
 - **Environmental ML Research**: Microplastics detection using FTIR spectra from isolated microplastic data.
 - **Biology + AI**: Isotropic Reconstruction Image with Deep Learning.
@@ -29,6 +23,7 @@ Machine Learning Engineer and Mathematics student from Ecuador, passionate about
 - Physics-Informed Neural Networks for Forecasting
 - ML engineering best practices (testing, MLOps, reproducibility)
 
+<!-- Projects -->
 ## 📊 Featured Projects
 
 ### 🌊 [Microplastics ML Research](https://github.com/JeffersonConza/microplastics-ml-research)
@@ -43,6 +38,7 @@ Detecting pneumonia from chest X-ray images using Convolutional Neural Networks 
 ### 🎤 [Offline Speech Summary](https://github.com/JeffersonConza/offline-speech-summary-vosk)
 Offline speech recognition and summarization system using Vosk and Transformers for privacy-preserving audio processing.
 
+<!-- Technologies -->
 ## 🧠 Tech Stack
 - **Languages**
 Python · R · SQL · LaTeX
@@ -54,6 +50,7 @@ PyTorch · TensorFlow · scikit-learn · XGBoost · NumPy · pandas · Matplotli
 JupyterLab · Git · GitHub · Linux · Bash · APIs
 
 
+<!-- PyTorch -->
 ## 🔦 My Love for PyTorch
 
 ````markdown
@@ -85,7 +82,7 @@ x = torch.randn(1, 10)
 print("PyTorch says:", model(x))
 ````
 
-
+<!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -112,4 +109,14 @@ print("PyTorch says:", model(x))
 
 </p>
 
+
+<!-- Top Languages -->
+<h3 align="center">📚 Top Languages</h3>
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonConza&show_icons=true&locale=en&layout=compact&theme=default" 
+       alt="JeffersonConza top languages"
+  />
+</p>
 ---
