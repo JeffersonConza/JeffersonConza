@@ -33,7 +33,7 @@ ML research for detection, classification, and environmental modeling of micropl
 Forecasting daily household energy use with machine learning models (Linear Regression, Random Forest, XGBoost) using real-world data to optimize consumption patterns.
 
 ### 🫁 [Pneumonia Detection CNN](https://github.com/JeffersonConza/pneumonia-detection-cnn-xray)
-Detecting pneumonia from chest X-ray images using Convolutional Neural Networks and transfer learning for medical imaging applications.
+Modular PyTorch implementation of CheX‑DS (DenseNet121 + Swin Transformer) for pneumonia detection, featuring 99% recall, Docker support, and an interactive Streamlit dashboard.
 
 ### 🎤 [Offline Speech Summary](https://github.com/JeffersonConza/offline-speech-summary-vosk)
 Offline speech recognition and summarization system using Vosk and Transformers for privacy-preserving audio processing.
