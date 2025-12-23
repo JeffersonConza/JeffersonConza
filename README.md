@@ -30,7 +30,7 @@ Machine Learning Engineer and Mathematics student from Ecuador, passionate about
 ML research for detection, classification, and environmental modeling of microplastics using spectroscopy analysis.
 
 ### 🔋 [Energy Forecast Hub](https://github.com/JeffersonConza/energy-forecast-hub)
-Forecasting daily household energy use with machine learning models (Linear Regression, Random Forest, XGBoost) using real-world data to optimize consumption patterns.
+End‑to‑end ML forecasting application using linear regression, random forest, and XGBoost, served via FastAPI and Streamlit, containerized with Docker.
 
 ### 🫁 [Pneumonia Detection CNN](https://github.com/JeffersonConza/pneumonia-detection-cnn-xray)
 Modular PyTorch implementation of CheX‑DS (DenseNet121 + Swin Transformer) for pneumonia detection, featuring 99% recall, Docker support, and an interactive Streamlit dashboard.
