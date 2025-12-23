@@ -116,5 +116,3 @@ print("PyTorch says:", model(x))
     alt="JeffersonConza top languages"
   />
 </p>
-
----
