@@ -112,7 +112,9 @@ print("PyTorch says:", model(x))
 <!-- Top Languages -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonConza&show_icons=true&locale=en&layout=compact&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonConza&show_icons=true&locale=en&theme=default"
     alt="JeffersonConza top languages"
   />
 </p>
+
+---
