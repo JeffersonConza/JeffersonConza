@@ -1,119 +1,142 @@
 <h1 align="center">Hi there, I'm Jefferson Conza 👋</h1>
 
-<!-- Introduction -->
 <p align="center">
-Machine Learning Engineer and Mathematics student from Ecuador, passionate about building data-driven solutions while deepening my theoretical understanding.
+  <strong>Applied Mathematician & Machine Learning Engineer</strong><br>
+  <em>Bridging pure mathematics, computational science, and deep learning.</em>
 </p>
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=JeffersonConza&label=Profile%20Views&color=0e75b6&style=flat-square" 
-    alt="Profile views"
-  />
+  <a href="https://jeffersonconza.github.io"><strong>🌐 Personal Website & Blog</strong></a> •
+  <a href="https://jeffersonconza.github.io/projects"><strong>🚀 Projects Portfolio</strong></a> •
+  <a href="https://jeffersonconza.github.io/cv-en-jefferson-conza.pdf"><strong>📄 Resume (EN)</strong></a> •
+  <a href="https://jeffersonconza.github.io/cv-es-jefferson-conza.pdf"><strong>📄 CV (ES)</strong></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JeffersonConza&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
-<!-- Current activities -->
-## 🔭 I'm currently working on...
-- **Environmental ML Research**: Microplastics detection using FTIR spectra from isolated microplastic data.
-- **Biology + AI**: Isotropic Reconstruction Image with Deep Learning.
+---
 
-## 🌱 I'm currently learning...
-- Advanced probability and statistics for ML
-- Physics-Informed Neural Networks for Forecasting
-- ML engineering best practices (testing, MLOps, reproducibility)
+### 👨‍💻 About Me
 
-<!-- Projects -->
-## 📊 Featured Projects
+- 🎓 Senior **Mathematics Student** at [Universidad Yachay Tech](https://yachaytech.edu.ec/) (Ecuador).
+- 🤖 **Machine Learning Engineer** trained via intensive bootcamps at [Anyone AI](https://www.anyoneai.com/).
+- ☁️ Certified **Cloud Application Developer** candidate at [AWS Cloud Institute](https://aws.amazon.com/).
+- 🔬 Research focus: **Scientific Machine Learning (SciML)**, **Physics-Informed Neural Networks (PINNs)**, and **Computer Vision** for biomedical applications.
+- ✍️ Author of scientific essays on history, mathematics, and great minds at [jeffersonconza.github.io/blog](https://jeffersonconza.github.io/blog).
 
-### 🌊 [Microplastics ML Research](https://github.com/JeffersonConza/microplastics-ml-research)
-ML research for detection, classification, and environmental modeling of microplastics using spectroscopy analysis.
+---
 
-### 🔋 [Energy Forecast Hub](https://github.com/JeffersonConza/energy-forecast-hub)
-End‑to‑end ML forecasting application using linear regression, random forest, and XGBoost, served via FastAPI and Streamlit, containerized with Docker.
+### 🔭 Current Research & Work
 
-### 🫁 [Pneumonia Detection CNN](https://github.com/JeffersonConza/pneumonia-detection-cnn-xray)
-Modular PyTorch implementation of CheX‑DS (DenseNet121 + Swin Transformer) for pneumonia detection, featuring 99% recall, Docker support, and an interactive Streamlit dashboard.
+- **Physics-Informed Neural Networks (PINNs)**: Solving nonlinear PDEs (Burgers 1D, 2D Heat Diffusion, Navier-Stokes) by embedding physical conservation laws directly into neural network loss functions.
+- **Biomedical Computer Vision**: Isotropic 3D image reconstruction via generative models (CycleGAN) to resolve axial resolution anisotropy in fluorescence microscopy.
+- **Microplastics Detection**: Environmental ML classification and regression modeling using FTIR spectroscopy.
+- **Cloud & MLOps Architecture**: Deploying containerized inference engines with FastAPI, Docker, and AWS infrastructure (EC2, S3).
 
-### 🎤 [Offline Speech Summary](https://github.com/JeffersonConza/offline-speech-summary-vosk)
-Offline speech recognition and summarization system using Vosk and Transformers for privacy-preserving audio processing.
+---
 
-<!-- Technologies -->
-## 🧠 Tech Stack
-- **Languages**
-Python · R · SQL · LaTeX
+### 📊 Featured Projects
 
-- **ML / DL**
-PyTorch · TensorFlow · scikit-learn · XGBoost · NumPy · pandas · Matplotlib
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="left">🔬 <a href="https://jeffersonconza.github.io/projects/laboratorio-pinns-aws/">PINNs & SciML Laboratory</a></h3>
+      <p>Modular PyTorch and DeepXDE framework to solve Burgers, Heat, and Navier-Stokes equations with physics losses. Automated checkpointing to AWS S3 and containerized API on Docker/EC2.</p>
+      <p><code>PyTorch</code> <code>DeepXDE</code> <code>FastAPI</code> <code>Docker</code> <code>AWS EC2/S3</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="left">🫁 <a href="https://github.com/JeffersonConza/pneumonia-detection-cnn-xray">CheX-DS: Pneumonia Detection</a></h3>
+      <p>Hybrid Deep Learning architecture combining Swin Transformer and DenseNet121 for pediatric pneumonia screening in chest X-rays. Achieved <strong>99.0% recall</strong> with Grad-CAM explainability.</p>
+      <p><code>PyTorch</code> <code>Transformers</code> <code>DenseNet</code> <code>Streamlit</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="left">🔬 <a href="https://jeffersonconza.github.io/projects/reconstruccion-isotropica-bioimagen/">3D Isotropic Bio-Image Reconstruction</a></h3>
+      <p>Unpaired image-to-image translation with 3D CycleGAN to restore spatial resolution along the axial (z) dimension in confocal microscopy, eliminating PSF blur.</p>
+      <p><code>CycleGAN</code> <code>3D ConvNets</code> <code>Bio-Imaging</code> <code>PyTorch</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="left">🔋 <a href="https://github.com/JeffersonConza/energy-forecast-hub">Energy Forecast Hub</a></h3>
+      <p>End-to-end time-series energy demand forecasting platform using XGBoost, Random Forest, and Ridge Regression. Microservice architecture with FastAPI and interactive Streamlit UI.</p>
+      <p><code>FastAPI</code> <code>Streamlit</code> <code>Docker</code> <code>XGBoost</code> <code>scikit-learn</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="left">🌊 <a href="https://github.com/JeffersonConza/microplastics-ml-research">Microplastics ML Research</a></h3>
+      <p>Machine Learning classification and spectral feature extraction for environmental microplastic pollutants using Fourier-Transform Infrared (FTIR) spectroscopy.</p>
+      <p><code>Chemometrics</code> <code>FTIR Spectroscopy</code> <code>scikit-learn</code> <code>pandas</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="left">🎬 <a href="https://jeffersonconza.github.io/projects/animaciones-manim-gagarin-day/">Manim Mathematical Animations</a></h3>
+      <p>Programmatic mathematical and physical animations crafted with Manim for educational outreach, orbital mechanics, and scientific storytelling (Gagarin Day).</p>
+      <p><code>Python</code> <code>Manim</code> <code>LaTeX</code> <code>Orbital Mechanics</code></p>
+    </td>
+  </tr>
+</table>
 
-- **Tools**
-JupyterLab · Git · GitHub · Linux · Bash · APIs
+---
 
+### 🧠 Tech Stack
 
-<!-- PyTorch -->
-## 🔦 My Love for PyTorch
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,julia,r,postgres,bash,linux,docker,aws,git,github" />
+</p>
 
-````markdown
-PyTorch turns mathematical ideas into tensors, tensors into models,  
-and models into intelligent systems that learn from the world.
+- **Core & Scientific Computing**: Python, Julia, R, SQL, C++, Bash, LaTeX
+- **Deep Learning & SciML**: PyTorch, DeepXDE, TensorFlow, scikit-learn, XGBoost, Hugging Face, Torchvision
+- **Math & Data Engineering**: NumPy, pandas, SciPy, SymPy, Matplotlib, Seaborn, Manim
+- **MLOps & Cloud**: Docker, FastAPI, Streamlit, AWS (EC2, S3, SageMaker), Git, Linux / Unix
 
-From `autograd` magic to GPU-powered training loops,  
-PyTorch feels less like coding and more like speaking computational math fluently.
+---
 
-<3 PyTorch + CUDA <3
+### 🔦 Why Scientific Machine Learning & PyTorch?
 
 ```python
 import torch
-import torch.nn as nn
 
-class MyModel(nn.Module):
-    def __init__(self):
-        super().__init__()
-        self.net = nn.Sequential(
-            nn.Linear(10, 32),
-            nn.ReLU(),
-            nn.Linear(32, 1)
-        )
-    def forward(self, x):
-        return self.net(x)
+# Embedding physical differential operators into the loss function
+def physics_loss(u_net, x, t, nu=0.01 / torch.pi):
+    x.requires_grad_(True)
+    t.requires_grad_(True)
+    
+    u = u_net(torch.cat([x, t], dim=1))
+    
+    # Automatic differentiation (autograd)
+    u_t = torch.autograd.grad(u, t, grad_outputs=torch.ones_like(u), create_graph=True)[0]
+    u_x = torch.autograd.grad(u, x, grad_outputs=torch.ones_like(u), create_graph=True)[0]
+    u_xx = torch.autograd.grad(u_x, x, grad_outputs=torch.ones_like(u_x), create_graph=True)[0]
+    
+    # 1D Viscous Burgers' equation residual: f = u_t + u * u_x - nu * u_xx
+    residual = u_t + u * u_x - nu * u_xx
+    return torch.mean(residual ** 2)
+```
 
-model = MyModel()
-x = torch.randn(1, 10)
-print("PyTorch says:", model(x))
-````
+> *"PyTorch turns mathematical intuition into tensors, autograd into differential equations, and neural networks into computational physics engines."*
 
-<!-- Social Media -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jefferson-conza-46779b59/" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="jefferson-conza-46779b59" 
-       height="30" width="40" />
-</a>
-
-<a href="https://twitter.com/Jefferson_Conza" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-       alt="@Jefferson_Conza" 
-       height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/jefferson_conza/" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-       alt="jefferson_conza" 
-       height="30" width="40" />
-</a>
-
-</p>
-
-
-<!-- Top Languages -->
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffersonConza&show_icons=true&locale=en&layout=compact&theme=default" 
-       alt="JeffersonConza top languages"
-  />
-</p>
 ---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JeffersonConza&theme=tokyonight&hide_border=true" alt="Jefferson's GitHub Streak & Contribution Stats" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p align="left">
+  <a href="https://jeffersonconza.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-jeffersonconza.github.io-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/jefferson-conza-46779b59/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Jefferson%20Conza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jeffconza3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jeffconza3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
