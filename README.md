@@ -8,9 +8,6 @@
 <p align="center">
   <a href="https://jeffersonconza.github.io"><strong>🌐 Personal Website & Blog</strong></a> •
   <a href="https://jeffersonconza.github.io/projects"><strong>🚀 Projects Portfolio</strong></a> •
-  <a href="https://jeffersonconza.github.io/blog"><strong>✍️ Scientific Essays</strong></a> •
-  <a href="https://jeffersonconza.github.io/cv-en-jefferson-conza.pdf"><strong>📄 Resume (EN)</strong></a> •
-  <a href="https://jeffersonconza.github.io/cv-es-jefferson-conza.pdf"><strong>📄 CV (ES)</strong></a>
 </p>
 
 <p align="center">
@@ -25,7 +22,6 @@
 - 🤖 **Machine Learning Engineer** trained via intensive bootcamps at [Anyone AI](https://www.anyoneai.com/).
 - ☁️ Certified **Cloud Application Developer** candidate at [AWS Cloud Institute](https://aws.amazon.com/).
 - 🔬 Research focus: **Scientific Machine Learning (SciML)**, **Physics-Informed Neural Networks (PINNs)**, and **Computer Vision** for biomedical imaging.
-- ✍️ Author of scientific essays on mathematics, astronomy, and history at [jeffersonconza.github.io/blog](https://jeffersonconza.github.io/blog).
 
 ---
 
