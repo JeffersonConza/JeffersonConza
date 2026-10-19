@@ -1,11 +1,11 @@
 <div align="center">
 
-# Jefferson Conza
+# Hi, 👋 I'm Jefferson Conza
 
 **Mathematics Student & Machine Learning Engineer**  
 *Bridging Mathematics and AI.*
 
-[Website & Essays](https://jeffersonconza.github.io) • [Projects Portfolio](https://jeffersonconza.github.io/projects) • [Interactive Math & AI Lab](https://jeffersonconza.github.io/matematica-ia) • [LinkedIn](https://www.linkedin.com/in/jefferson-conza-46779b59/) • [Email](mailto:jeffconza3@gmail.com)
+[Website & Essays](https://jeffersonconza.github.io) • [Projects Portfolio](https://jeffersonconza.github.io/matematica-ia) • [LinkedIn](https://www.linkedin.com/in/jefferson-conza-46779b59/) • [Email](mailto:jeffconza3@gmail.com)
 
 </div>
 
