@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, 👋 I'm Jefferson Conza
+# Hi👋, I'm Jefferson Conza
 
 **Mathematics Student & Machine Learning Engineer**  
 *Bridging Mathematics and AI.*
@@ -98,6 +98,15 @@ def physics_loss(u_net, x, t, nu=0.01 / torch.pi):
 
 *Explore all bilingual essays and notes at [jeffersonconza.github.io/blog](https://jeffersonconza.github.io/blog).*
 
+---
+
+### 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JeffersonConza&theme=tokyonight&hide_border=true" alt="Jefferson's GitHub Streak & Contribution Stats" />
+</p>
+
+---
 ---
 
 <div align="center">
